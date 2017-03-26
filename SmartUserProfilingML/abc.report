@@ -1,0 +1,87 @@
+Model file         : model/train.model/train.model
+Input file         : test.dat
+Kernel type        : rbf
+Gamma              : 0.00571429
+Feature selection  : off
+RSVM               : off
+#Class             : 11
+#Examples          : 49
+#Rare class        : 0
+
+Overall classes
+Accuracy        : 0.875696
+Micro Precision : 0.306122
+Macro Precision : 0.0278293
+Micro Recall    : 0.3125
+Macro Recall    : 0.0909091
+Micro F1Score   : 0.309278
+Macro F1Score   : 0.0426136
+Test Time       : 0.010325 sec.
+
+Measures of each classes
+Class Artist
+Accuracy  : 0.959184
+Precision : 0
+Recall    : 0
+F1Score   : 0
+
+Class Fitness_Trainer
+Accuracy  : 0.979592
+Precision : 0
+Recall    : 0
+F1Score   : 0
+
+Class Gamers
+Accuracy  : 1
+Precision : 0
+Recall    : 0
+F1Score   : 0
+
+Class Homemaker
+Accuracy  : 0.816327
+Precision : 0
+Recall    : 0
+F1Score   : 0
+
+Class IT_Proffesional
+Accuracy  : 0.306122
+Precision : 0.306122
+Recall    : 1
+F1Score   : 0.46875
+
+Class Medical
+Accuracy  : 1
+Precision : 0
+Recall    : 0
+F1Score   : 0
+
+Class PhotoGrapher
+Accuracy  : 0.979592
+Precision : 0
+Recall    : 0
+F1Score   : 0
+
+Class Sportsman
+Accuracy  : 0.897959
+Precision : 0
+Recall    : 0
+F1Score   : 0
+
+Class Student
+Accuracy  : 0.714286
+Precision : 0
+Recall    : 0
+F1Score   : 0
+
+Class Teachers
+Accuracy  : 0.979592
+Precision : 0
+Recall    : 0
+F1Score   : 0
+
+Class Traveller
+Accuracy  : 1
+Precision : 0
+Recall    : 0
+F1Score   : 0
+

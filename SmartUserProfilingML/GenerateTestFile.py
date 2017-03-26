@@ -4,13 +4,14 @@ import sys
 import random
 import pandas as pd
 import numpy as np
+import os
 
-trainfile=open("train.dat","w")
+trainfile=open("test.dat","w")
 
 f = open('projextitemusermatrix.csv','r')
 reader = csv.reader(f)
 
-for num in range(1,1000001):
+for num in range(1,50):
 	l=[]
 	dead=random.randint(1,10)
 	temp=random.sample(range(1,176),dead)
@@ -52,3 +53,4 @@ for num in range(1,1000001):
 	trainfile.write("\n")
 f.close()
 trainfile.close()
+os.system("./svm-predict test.dat  model/train.model  abc")

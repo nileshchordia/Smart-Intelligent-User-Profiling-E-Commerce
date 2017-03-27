@@ -27,7 +27,7 @@ def api_hello():
 	if 'productid' in request.args:
 		d=request.args.getlist('productid')
 	else:
-		return 'bhak bhosdk'
+		return 'Invalid ProductId'
 	print d
 	print str(type(d))+"nileshtype"
 	for q in d:

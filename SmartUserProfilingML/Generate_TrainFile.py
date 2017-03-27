@@ -11,7 +11,7 @@ trainfile=open("train.dat","w")
 f = open('projextitemusermatrix.csv','r')
 reader = csv.reader(f)
 
-for num in range(1,101):
+for num in range(1,100001):
 	l=[]
 	dead=random.randint(1,10)
 	temp=random.sample(range(1,176),dead)

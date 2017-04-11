@@ -1,0 +1,117 @@
+Model file         : model/train.model/train.model
+Input file         : test.dat
+Kernel type        : rbf
+Gamma              : 0.00571429
+Feature selection  : off
+RSVM               : off
+#Class             : 16
+#Examples          : 4999
+#Rare class        : 0
+
+Overall classes
+Accuracy        : 0.935612
+Micro Precision : 0.484897
+Macro Precision : 0.900511
+Micro Recall    : 0.484897
+Macro Recall    : 0.361812
+Micro F1Score   : 0.484897
+Macro F1Score   : 0.455497
+Test Time       : 457.225 sec.
+
+Measures of each classes
+Class Artist
+Accuracy  : 0.978796
+Precision : 1
+Recall    : 0.23741
+F1Score   : 0.383721
+
+Class BuisnessMan
+Accuracy  : 0.9996
+Precision : 1
+Recall    : 0.882353
+F1Score   : 0.9375
+
+Class Fitness_Trainer
+Accuracy  : 0.987197
+Precision : 1
+Recall    : 0.333333
+F1Score   : 0.5
+
+Class Gamers
+Accuracy  : 0.982597
+Precision : 1
+Recall    : 0.340909
+F1Score   : 0.508475
+
+Class Homemaker
+Accuracy  : 0.891578
+Precision : 1
+Recall    : 0.202941
+F1Score   : 0.337408
+
+Class IT_Proffesional
+Accuracy  : 0.484897
+Precision : 0.408182
+Recall    : 1
+F1Score   : 0.579729
+
+Class Job_Seeker
+Accuracy  : 0.9988
+Precision : 1
+Recall    : 0.538462
+F1Score   : 0.7
+
+Class Medical
+Accuracy  : 0.991998
+Precision : 1
+Recall    : 0.259259
+F1Score   : 0.411765
+
+Class Muscican
+Accuracy  : 0.989198
+Precision : 1
+Recall    : 0.341463
+F1Score   : 0.509091
+
+Class PhotoGrapher
+Accuracy  : 0.983997
+Precision : 1
+Recall    : 0.292035
+F1Score   : 0.452055
+
+Class Salesman
+Accuracy  : 0.9998
+Precision : 0
+Recall    : 0
+F1Score   : 0
+
+Class Senior_Citizen
+Accuracy  : 0.996599
+Precision : 1
+Recall    : 0.666667
+F1Score   : 0.8
+
+Class Sportsman
+Accuracy  : 0.928786
+Precision : 1
+Recall    : 0.219298
+F1Score   : 0.359712
+
+Class Student
+Accuracy  : 0.833767
+Precision : 1
+Recall    : 0.0827815
+F1Score   : 0.152905
+
+Class Teachers
+Accuracy  : 0.975195
+Precision : 1
+Recall    : 0.2
+F1Score   : 0.333333
+
+Class Traveller
+Accuracy  : 0.946989
+Precision : 1
+Recall    : 0.192073
+F1Score   : 0.322251
+

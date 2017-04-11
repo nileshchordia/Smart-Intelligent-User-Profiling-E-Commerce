@@ -1,0 +1,21 @@
+classification_type : multiclass
+#valid_model : 16
+model : IT_Proffesional Student Teachers Artist Fitness_Trainer Medical Sportsman Homemaker Traveller Muscican PhotoGrapher Salesman Senior_Citizen Gamers BuisnessMan Job_Seeker 
+RSVM              : 0
+Feature_selection : 0
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
